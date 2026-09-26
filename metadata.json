@@ -1,0 +1,6 @@
+{
+  "name": "Musify",
+  "description": "Unlimited lossless music streaming and offline audio player with Apple-inspired Cupertino aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
